@@ -101,7 +101,8 @@ class User extends ConfideUser implements PresentableInterface {
 
     public function currentUser()
     {
-        return (new Confide)->user();
+        //return (new Confide)->user();
+        return (new Confide(App::make('Zizaco\Confide\ConfideRepository')))->user();
     }
 
 

@@ -65,7 +65,7 @@ return array(
 	|
 	*/
 
-	'key' => 'YourSecretKey!!!',
+	'key' => 'FzaXPFvwhhT7SY1lx04apqwZP0ewvyIn',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -121,8 +121,8 @@ return array(
         'Robbo\Presenter\PresenterServiceProvider', // Presenter
 
         /* Uncomment for use in development */
-//        'Way\Generators\GeneratorsServiceProvider', // Generators
-//        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider', // IDE Helpers
+     	'Way\Generators\GeneratorsServiceProvider', // Generators
+	    'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider', // IDE Helpers
 
     ),
 
