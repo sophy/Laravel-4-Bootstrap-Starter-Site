@@ -49,11 +49,11 @@ See [github issue list](https://github.com/andrew13/Laravel-4-Bootstrap-Starter-
 ### Step 1: Get the code
 #### Option 1: Git Clone
 
-	git clone git://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site.git laravel
+	git clone git@github.com:sophy/Laravel-4-Bootstrap-Starter-Site.git laravel
 
 #### Option 2: Download the repository
 
-    https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site/archive/master.zip
+    git@github.com:sophy/Laravel-4-Bootstrap-Starter-Site/archive/master.zip
 
 ### Step 2: Use Composer to install dependencies
 #### Option 1: Composer is not installed globally
